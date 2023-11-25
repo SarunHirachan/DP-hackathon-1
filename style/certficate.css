@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html{
+  background-color: white;
+  font-family: 'proxima-nova', sans-serif;
+  height: 100%;
+  width: 100%;
+}
+
+main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 70px;
+  flex-direction: column;
+}
+
